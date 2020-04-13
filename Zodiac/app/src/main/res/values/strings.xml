@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Zodiac</string>
+    <string name="title">Find Your Horoscope</string>
+    <string name="button_back">Back</string>
+    <string name="button_validate">Validate</string>
+    <string name="button_clear">Clear</string>
+    <string name="button_zodiac">Zodiac</string>
+    <string name="title_second_activity">Your Sign Is..</string>
+
+</resources>
